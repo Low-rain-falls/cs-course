@@ -1,5 +1,4 @@
 MIT Computer Science Courses
-P/s: [[https://github.com/duliodenis/mit-cs-courses]]
 ==============
 
 ![](https://raw.githubusercontent.com/duliodenis/mit-cs-courses/master/art/mit-cs.png)
@@ -37,5 +36,5 @@ No  | Platform | University Course
 7. | Udacity | [Georgia Tech CS6210: Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
 8. | Coursera | [Stanford CS143: Compilers](https://www.coursera.org/course/compilers)
 
-### Support or Contact
-Visit [ddApps.co](http://ddapps.co) to see more.
+### References
+[original repository](https://github.com/duliodenis/mit-cs-courses)
