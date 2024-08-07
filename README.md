@@ -1,4 +1,89 @@
 MIT Computer Science Courses
+P/s: [[https://github.com/duliodenis/mit-cs-courses]]
+
+![Organization Logo](link_to_logo_if_any)
+
+## Introduction
+
+Welcome to the [Organization Name] on GitHub! We are a group of developers, researchers, and tech enthusiasts focused on [organization's main objective].
+
+## Goals
+
+- **[Goal 1]**: Brief description of the first goal.
+- **[Goal 2]**: Brief description of the second goal.
+- **[Goal 3]**: Brief description of the third goal.
+
+## Main Projects
+
+1. **[Project Name 1]**
+   - Brief description of this project.
+   - Link to repository: [Repo Link](link_to_repo)
+
+2. **[Project Name 2]**
+   - Brief description of this project.
+   - Link to repository: [Repo Link](link_to_repo)
+
+3. **[Project Name 3]**
+   - Brief description of this project.
+   - Link to repository: [Repo Link](link_to_repo)
+
+## Join Us
+
+We always welcome new members to join our organization. If you are interested in contributing, please check out the contribution guidelines in specific repositories or contact us at [contact email or other contact methods].
+
+## Contact
+
+- **Email**: [email@domain.com](mailto:email@domain.com)
+- **Website**: [https://yourwebsite.com](https://yourwebsite.com)
+- **Twitter**: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
+
+## Thank You
+
+Thank you for visiting our organization's page! We look forward to your support and contributions.
+
+![GitHub Banner](link_to_banner_if_any)
+
+![Organization Logo](link_to_logo_if_any)
+
+## Introduction
+
+Welcome to the [Organization Name] on GitHub! We are a group of developers, researchers, and tech enthusiasts focused on [organization's main objective].
+
+## Goals
+
+- **[Goal 1]**: Brief description of the first goal.
+- **[Goal 2]**: Brief description of the second goal.
+- **[Goal 3]**: Brief description of the third goal.
+
+## Main Projects
+
+1. **[Project Name 1]**
+   - Brief description of this project.
+   - Link to repository: [Repo Link](link_to_repo)
+
+2. **[Project Name 2]**
+   - Brief description of this project.
+   - Link to repository: [Repo Link](link_to_repo)
+
+3. **[Project Name 3]**
+   - Brief description of this project.
+   - Link to repository: [Repo Link](link_to_repo)
+
+## Join Us
+
+We always welcome new members to join our organization. If you are interested in contributing, please check out the contribution guidelines in specific repositories or contact us at [contact email or other contact methods].
+
+## Contact
+
+- **Email**: [email@domain.com](mailto:email@domain.com)
+- **Website**: [https://yourwebsite.com](https://yourwebsite.com)
+- **Twitter**: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
+
+## Thank You
+
+Thank you for visiting our organization's page! We look forward to your support and contributions.
+
+![GitHub Banner](link_to_banner_if_any)
 ==============
 
 ![](https://raw.githubusercontent.com/duliodenis/mit-cs-courses/master/art/mit-cs.png)
